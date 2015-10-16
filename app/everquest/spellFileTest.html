@@ -1,0 +1,68 @@
+<section>
+	<h2>{{ appConfig.title }}</h2>
+	<hr/>
+	
+	<span ng-if="loading" style="color:red;">LOADING</span>
+	
+	 <div class="row">
+			<div class="col-md-12">
+				<form>
+					<!-- Search Filter and Pager -->
+					<div class="input-group input-group">
+						<span class="input-group-addon"><i class="fa fa-search"></i></span>
+						
+						<input class="form-control" type="text" ng-model="query" placeholder="Filter by spell name..." aria-label="Filter by spell name..."/>
+						
+						<span class="input-group-addon">Count: {{ (spells | andHigher:'nec':100 | orderBy:'Name' | sortByLevel:'nec' | search:query:'Name').length }}&nbsp;&nbsp;({{ currentPage + 1 }} / {{ pageCount() + 1 }})</span>
+																		
+						<!-- Table Pager -->
+						<span class="input-group-btn" ng-show="pageCount() > 0">
+								<!-- Jump to first page -->
+								<button class="btn btn-primary" ng-disabled="currentPage === 0" ng-click="currentPage = 0">&laquo;</button>
+								
+								<!-- Previous Page -->
+								<button class="btn btn-primary" ng-disabled="prevPageDisabled()" ng-click="prevPage()">&lt;</button>
+								
+								<!-- Display our current page +/- 2 -->
+								<button ng-disabled="page < 0 || page > pageCount()" ng-repeat="page in pageRange(currentPage)" 
+								class="btn" ng-class="{ 'btn-primary':currentPage === page, 'btn-link':currentPage !== page }" ng-click="gotoPage(page)">{{ page < 0 || page > pageCount() ? '' : page + 1 }}</button>
+								 
+								<!-- Next Page -->
+								<button class="btn btn-primary" ng-disabled="nextPageDisabled()" ng-click="nextPage()">&gt;</button>
+								
+								<!-- Jump to last page -->
+								<button class="btn btn-primary" ng-disabled="currentPage === pageCount()" ng-click="currentPage = pageCount()">&raquo;</button>
+						</span>
+						
+						<!-- Page Size -->
+						<span class="input-group-btn">
+							 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+									 <i class="fa fa-book"></i>&nbsp;&nbsp;{{ pageSize }}&nbsp;&nbsp;<i class="fa fa-caret-down"></i>
+							 </button>
+								 
+							 <!-- Select Page Size -->
+							 <ul class="dropdown-menu" role="menu">
+									 <li ng-repeat="size in pageSizes"><a href="#/krosarmy/test" ng-click="setPageSize(size)">{{ size }}</a></li>
+							 </ul>
+						</span>
+					</div><!-- /input-group -->
+				</form>
+			</div><!-- /.col-md-12 -->
+		</div><!-- /.row -->
+        
+		<div class="row">
+			<div class="pull-right">
+				<button class="btn btn-default btn-xs" ng-click="showRaw = !showRaw"><small><i class="fa" ng-class="{ 'fa-toggle-on':showRaw, 'fa-toggle-off':!showRaw }"></i>&nbsp;&nbsp;Show Raw JSON?</small></button>
+				<button class="btn btn-default btn-xs" ng-click="necroOnly = !necroOnly"><small><i class="fa" ng-class="{ 'fa-toggle-on':necroOnly, 'fa-toggle-off':!necroOnly }"></i>&nbsp;&nbsp;Necro Only</small></button>
+			</div>
+		</div>
+
+	
+	<div class="panel panel-default" ng-repeat="spell in spells | andHigher:'nec':100 | orderBy:'Name' | orderBy:'TargetClassReqLevel' | search:query:'Name' | startAt:currentPage:pageSize">
+		<div class="panel-heading">{{ spell.Name }} <small ng-if="spell.ClassesLevels">({{ spell.ClassesLevels }})</small></div>
+		<div class="panel-body">
+			<ol><li ng-repeat="spa in spell.Slots | purgeNullItems" ng-if="spa.indexOf('Decrease Current HP by') !== -1 && spa.indexOf('per tick') !== -1">{{ spa | trimSpa }}</li></ol>
+			<pre ng-if="showRaw">{{ spell | json }}</pre>
+		</div>
+	</div>
+</section>

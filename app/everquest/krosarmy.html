@@ -1,0 +1,26 @@
+<section>
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			<div class="page-header">
+				<h1>Meet the Krosarmy</h1>
+			</div>
+			
+			<div class="alert" ng-class="{ 'alert-warning':!streamOnline, 'alert-success':streamOnline }">
+				<p>{{ streamOnline ? 'Watch live' : 'Stream currently' }} <a href='http://www.twitch.tv/bodom0015'>{{ streamOnline ? 'ONLINE' : 'OFFLINE' }}</a></p>
+			</div>
+					
+			<table class='table table-condensed table-hover' ng-repeat="server in ['The Rathe', 'Cazic-Thule']">
+				<thead>
+					<tr>
+						<td width='50%'><strong>{{ server }}</strong></td>
+						<td width='50%'></td>
+					</tr>
+				</thead>	
+				<tr ng-repeat="character in servers[server]">
+					<td><a style="cursor:pointer;" ng-click="openMagelo(character)">{{ character.fullName = ifExists(character.title) + character.name + ifExists(character.surname, true) + ifExists(character.suffix, true) }}</a></td>
+					<td>{{ character.level }} {{character.clazz }} <span ng-if="character.heroic">(Heroic)</span></td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</section>

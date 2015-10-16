@@ -1,0 +1,56 @@
+<section>
+	<h2>EverQuest Basics</h2>
+	<accordion>
+    <accordion-group heading="Races">
+			<div class="row">
+				<div class="col-md-4" ng-repeat="alignment in alignments">
+					<h4 class="text-center">{{ alignment | uppercase }}</h4>
+					<div ng-repeat="race in races | filterBy:'alignment':alignment">
+						<div class="panel panel-info">
+							<div class="panel-heading">
+								<h3 class="panel-title">{{ race.name }}<small class="pull-right">{{ race.id }}</small></h3>
+							</div>
+							<div class="panel-body">
+								<label>Alignment:</label> {{ race.alignment }}<br/>
+								<label>Hometown:</label> {{ race.hometown }}<br/>
+
+								<div class="well well-sm">{{ race.description }}</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+    </accordion-group>
+    <accordion-group heading="Classes">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="btn-group noselect" role="group" aria-label="Sort By">
+						<button type="button" class="btn btn-lg" ng-repeat="(keyName, keyList) in keys" ng-click='selectClassKey(keyName)'
+						ng-class="{ 'btn-default': selectedClassKey !== keyName, 'btn-primary': selectedClassKey === keyName }">
+							{{ keyName | uppercase }}
+						</button>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div ng-class="{ 'col-md-3':selectedClassKey === 'armorType', 'col-md-4': selectedClassKey === 'archetype' || selectedClassKey === 'role' }" ng-repeat="key in keys[selectedClassKey].value">
+					<h4 class="text-center">{{ key | uppercase }}</h4>
+					<div ng-repeat="class in classes | filterBy:selectedClassKey:key">
+						<div class="panel panel-info">
+							<div class="panel-heading">
+								<h3 class="panel-title">{{ class.name }}<small class="pull-right">{{ class.id }}</small></h3>
+							</div>
+							<div class="panel-body">
+								<label>Primary Role:</label> {{ class.role }} {{ class.archetype }}<br/>
+								<label>Armor Type:</label> {{ class.armorType }}<br/>
+								<label>Weapon Type:</label> {{ class.weaponType }}<br/>
+
+								<div class="well well-sm">{{ class.description }}</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+    </accordion-group>
+  </accordion>
+</section>

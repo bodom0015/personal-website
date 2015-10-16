@@ -1,0 +1,26 @@
+<section class="container">
+	<div class="row">
+		<div id="graphFrame">
+			<d3-time-line items="items" lanes="lanes" time-begin="{{timeBegin}}" time-end="{{timeEnd}}" lane-length="{{laneLength}}"></d3-time-line>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-md-6">
+			<h3>Ancient History</h3>
+			<div ng-repeat="age in ancientHistory" style="border:solid">
+				<h4>{{ age.name }}</h4>
+				{{ age.synopsis }}
+			</div>
+		</div>
+		<div class="col-md-6">
+			<h3>EQ Expansions</h3>
+			<div ng-repeat="expac in expacs" style="border:solid">
+				<h4>{{ expac.title }} ({{ expac.released }})</h4>
+				<p ng-if="expac.additions"><strong>Features Introduced:</strong> {{ expac.additions }}</p>
+				<p><strong>Levels Targetted:</strong> {{ expac.levels }}</p>
+				<p><strong>Overarching Plot:</strong> {{ expac.plot }}</p>
+			</div>
+		</div>
+	</div>
+</section>
