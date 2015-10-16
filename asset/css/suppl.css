@@ -4,14 +4,14 @@ html {
     min-height: 100%;
 }
 body {
-		padding-top: 0; /* top = navbar height */
+    padding-top: 0; /* top = navbar height */
     margin: 0 0 0 0; /* bottom = footer height */
 }
 footer {
     position: absolute;
     left: 0;
     bottom: 0;
-		color: #999;
+    color: #999;
     height: 0px;
     width: 100vw;
 }
@@ -45,53 +45,53 @@ footer {
 }
 
 #welcomeJumbo {
-	color: #DDD;
+  color: #DDD;
   background: url('/asset/jpg/static_spotlight.jpg') 50% 0 fixed; 
-	text-align:center;
-	margin: -70px 0 0 0;
-	padding: 60px 0 60px 0;
-	border-radius: 0;
+  text-align:center;
+  margin: -70px 0 0 0;
+  padding: 60px 0 60px 0;
+  border-radius: 0;
 }
 #jumboHeader {
-	margin: 120px 0 0 0;
-	font-family: 'Indie Flower', cursive;
+  margin: 120px 0 0 0;
+  font-family: 'Indie Flower', cursive;
 }
 
 #jumboContent {
-	font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower', cursive;
 }
 #linkBar {
-	z-index:9999 !important;
+  z-index:9999 !important;
 }
 
 #linkButton {
-	margin:15px;
+  margin:15px;
 }
 
 .link-button {
-	margin:20px;
+  margin:20px;
 }
 
 .thin-margins {
-	margin:10px 75px 10px 75px;
-	z-index:9999 !important;
+  margin:10px 75px 10px 75px;
+  z-index:9999 !important;
 }
 
 #straddleDiv {
-	text-align:center;
-	margin-top:-175px;
-	margin-bottom:155px;
-	padding-top:25px;
-	z-index:1031 !important
+  text-align:center;
+  margin-top:-175px;
+  margin-bottom:155px;
+  padding-top:25px;
+  z-index:1031 !important
 }
 
 #straddleButton {
-	/*height: 50px !important;
-	width: 50px !important;*/
-	opacity:.75;
-	position:relative;
-	border-radius: 200px;
-	box-shadow: 5px 5px 10px rgba(0,0,0,0.85);
+  /*height: 50px !important;
+  width: 50px !important;*/
+  opacity:.75;
+  position:relative;
+  border-radius: 200px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.85);
 }
 
 .popover{
@@ -99,21 +99,21 @@ footer {
 }
 
 .btn {
-	border-radius:5px;
+  border-radius:5px;
 }
 
 .row {
     margin-left: 5px;
-		margin-right: 5px;
+    margin-right: 5px;
 }
 
 .dropdown-toggle {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .well {
-	border-radius:0px;
-	margin:20px 5px 20px 5px;
+  border-radius:0px;
+  margin:20px 5px 20px 5px;
   box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
 }
 
@@ -178,36 +178,36 @@ footer {
 
 /* D3 Timeline Styling */
 .chart {
-	shape-rendering: crispEdges;
+  shape-rendering: crispEdges;
 }
 
 .mini text {
-	font: 9px sans-serif;	
+  font: 9px sans-serif; 
 }
 
 .main text {
-	font: 12px sans-serif;	
+  font: 12px sans-serif;  
 }
 
 .miniItem0 {
-	fill: darksalmon;
-	stroke-width: 6;	
+  fill: darksalmon;
+  stroke-width: 6;  
 }
 
 .miniItem1 {
-	fill: darkolivegreen;
-	fill-opacity: .7;
-	stroke-width: 6;	
+  fill: darkolivegreen;
+  fill-opacity: .7;
+  stroke-width: 6;  
 }
 
 .miniItem2 {
-	fill: slategray;
-	fill-opacity: .7;
-	stroke-width: 6;	
+  fill: slategray;
+  fill-opacity: .7;
+  stroke-width: 6;  
 }
 
 .brush .extent {
-	stroke: gray;
-	fill: dodgerblue;
-	fill-opacity: .365;
+  stroke: gray;
+  fill: dodgerblue;
+  fill-opacity: .365;
 }
