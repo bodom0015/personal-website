@@ -1,8 +1,8 @@
 angular
 .module('test')
-.constant('Objective', 'I am currently seeking position as a backend / frontend / full-stack software developer in an environment which fosters sound development practices. While I have had quite a bit of technological exposure, I have not been able to focus in any one area long enough to gain an expertise. I hope to find an organization that would help me find a path to that expertise, while keeping my current skills sharp and learning some new ones along the way.')
+.constant('Objective', 'I am an aspiring backend / frontend / full-stack software developer who enjoys discovering technologies, both modern and legacy. I am currently seeking employment as a software developer in an environment which fosters sound development practices, and hope to find an organization that would help me find a path to an expertise, while learning new skills and keeping my current ones sharp.')
 //.constant('Objective', 'I am currently happily employed at X and am not surrently seeking new opportunities at this time.')
-.constant('AboutMe', 'In my spare time, I enjoy playing guitar and singing. Although I have no formal musical training, I have always enjoyed creating and mixing music. I have also been known to enjoy playing complicated games that allow me to apply my knowledge of the mysterious inner workings of software to refine my gameplay strategies, like EverQuest and MineCraft. I also host MineCraft servers on my desktop PC, but they rarely see any traffic.')
+.constant('AboutMe', 'In my spare time, I enjoy playing guitar and singing. Although I have no formal musical training, I have always enjoyed creating and mixing music. I have also been known to enjoy playing complicated games, such as EverQuest and MineCraft, that allow me to apply my knowledge of the mysterious inner workings of software to refine my gameplay strategies. Along with this web server, I also host MineCraft and Ventrilo servers on my desktop PC, but they do not see much traffic.')
 .constant('CurrentLocation', {
     name: 'Mike Lambert',
     address: '211 Avondale Ave.',
@@ -36,18 +36,18 @@ angular
         icon: 'fa-google-plus-square',
         description: 'View My Google+'
       },
-      /*{
-        id: 5,
-        url: 'https://twitter.com/bodom0015',
-        icon: 'fa-twitter-square',
-        description: 'View My Twitter'
-      },
       {
-        id: 6,
+        id: 5,
         url: 'https://github.com/bodom0015',
         icon: 'fa-github-square',
         description: 'View My GitHub'
-      }*/
+      },
+      {
+        id: 6,
+        url: 'https://twitter.com/bodom0015',
+        icon: 'fa-twitter-square',
+        description: 'View My Twitter'
+      }
   ])
 .constant('PrimaryLanguages', [
     {
@@ -251,6 +251,29 @@ angular
       }
     });
   });
+  
+  // Parallax scroll effects
+  $(document).ready(function(){
+   // cache the window object
+   $window = $(window);
+ 
+   $('section[data-type="background"]').each(function(){
+     // declare the variable to affect the defined data-type
+     var $scroll = $(this);
+                     
+      $(window).scroll(function() {
+        // HTML5 proves useful for helping with creating JS functions!
+        // also, negative value because we're scrolling upwards                             
+        var yPos = -($window.scrollTop() / $scroll.data('speed')); 
+         
+        // background position
+        var coords = '50% '+ yPos + 'px';
+ 
+        // move the background
+        $scroll.css({ backgroundPosition: coords });    
+      }); // end window scroll
+   });  // end section function
+}); // close out script
   
   // Watch the scroll location to change the arrow direction
   angular.element(document).ready(function () {

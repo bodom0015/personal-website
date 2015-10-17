@@ -46,8 +46,14 @@
     <script src="/app/shared/WelcomeController.js"></script>
     <script src="/app/ventrilo/VentriloController.js"></script>
     <script src="/app/minecraft/MinecraftController.js"></script>
-    <script src="/app/everquest/EverquestController.js"></script>
-    <div class="container-fluid page" ng-view id="scrollContainer" style="padding:60px 0 0 0"></div>
+    
+    <script src="/app/everquest/basics/EverquestBasicsController.js"></script>
+    <script src="/app/everquest/map/EverquestMapController.js"></script>
+    <script src="/app/everquest/lore/EverquestLoreController.js"></script>
+    <script src="/app/everquest/spells/EverquestSpellSearchController.js"></script>
+    <script src="/app/everquest/krosarmy/EverquestKrosarmyController.js"></script>
+    
+    <div class="container-fluid page" ng-view id="scrollContainer"></div>
     
     <script src="/app/shared/FooterController.js"></script>
   </body>

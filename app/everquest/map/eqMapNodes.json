@@ -1,0 +1,3509 @@
+{
+	"id": 432,
+	"name": "The Norrathian Solar System",
+	"x": 10,
+	"y": 10,
+	"size": 30,
+	"children": [
+		{
+			"id": 118,
+			"name": "Ro",
+			"x": -8966.612,
+			"y": 1220.5559,
+			"z": 0,
+			"size": 434.8
+		},
+		{
+			"id": 119,
+			"name": "Trorsmang",
+			"x": -6684.225,
+			"y": 1572.4171,
+			"z": 0,
+			"size": 148.4
+		},
+		{
+			"id": 120,
+			"name": "Andeal",
+			"x": 4290.839,
+			"y": 1782.4248,
+			"z": 0,
+			"size": 88.4
+		},
+		{
+			"id": 121,
+			"name": "Cordan",
+			"x": 6570.25,
+			"y": 1875.0048,
+			"z": 0,
+			"size": 110
+		},
+		{
+			"id": 123,
+			"name": "Drinal",
+			"x": -5455.3145,
+			"y": 3237.1526,
+			"z": 0,
+			"size": 49.999996
+		},
+		{
+			"id": 216,
+			"name": "Luclin",
+			"x": -5455.3145,
+			"y": 3237.1526,
+			"z": 0,
+			"size": 49.999996,
+			"children": [
+				{
+					"id": 197,
+					"name": "Grieg's End",
+					"x": -3373.8977,
+					"y": 3896.5298,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 198,
+					"name": "Dawnshroud Peaks",
+					"x": -3658.21,
+					"y": 3809.746,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 199,
+					"name": "Scarlet Desert",
+					"x": -4693.1377,
+					"y": 3991.7212,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 200,
+					"name": "Sanctus Seru",
+					"x": -3576.2444,
+					"y": 3615.5784,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 201,
+					"name": "Marus Seru",
+					"x": -3901.64,
+					"y": 3664.1052,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 202,
+					"name": "Mons Letalis",
+					"x": -3950.6326,
+					"y": 3474.7886,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 203,
+					"name": "The Grey",
+					"x": -4544.49,
+					"y": 3676.054,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 204,
+					"name": "Ssraeshza Temple",
+					"x": -4804.4824,
+					"y": 3537.586,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 205,
+					"name": "The Twilight Sea",
+					"x": -4865.9097,
+					"y": 4361.87,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 206,
+					"name": "Katta Castellum",
+					"x": -4586.043,
+					"y": 4464.175,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 207,
+					"name": "Tenebrous Mountains",
+					"x": -4384.339,
+					"y": 4572.3926,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 208,
+					"name": "Grimling Forest",
+					"x": -4178.135,
+					"y": 4649.9346,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 209,
+					"name": "Acrylia Caverns",
+					"x": -4363.8896,
+					"y": 4754.3486,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 210,
+					"name": "Hollowshade Moor",
+					"x": -4069.1526,
+					"y": 4547.2305,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 211,
+					"name": "Shar Vahl",
+					"x": -3809.7444,
+					"y": 4484.251,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 212,
+					"name": "Shadeweaver's Thicket",
+					"x": -3877.237,
+					"y": 4383.125,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 213,
+					"name": "Maiden's Eye",
+					"x": -3694.2112,
+					"y": 4002.6853,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 214,
+					"name": "The Umbral Plains",
+					"x": -3476.2935,
+					"y": 4081.3777,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 215,
+					"name": "Akheva Ruins",
+					"x": -3720.3271,
+					"y": 4129.832,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 216,
+					"name": "Luclin Underground",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 188,
+							"name": "The Deep",
+							"x": -4464.999,
+							"y": 3904.05,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 189,
+							"name": "Echo Caverns",
+							"x": -4293.652,
+							"y": 4222.115,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 190,
+							"name": "Fungus Grove",
+							"x": -4604.2627,
+							"y": 4140.6113,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 191,
+							"name": "Shadow Haven",
+							"x": -4225.158,
+							"y": 4148.747,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 192,
+							"name": "The Nexus",
+							"x": -4049.4905,
+							"y": 4040.337,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 193,
+							"name": "The Bazaar",
+							"x": -3920.279,
+							"y": 4190.104,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 194,
+							"name": "Netherbien Lair",
+							"x": -4023.6375,
+							"y": 3864.8362,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 195,
+							"name": "Paludal Caverns",
+							"x": -4175.7324,
+							"y": 4280.007,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 241,
+					"name": "Chelsith Reborn",
+					"x": -4367.386,
+					"y": 3816.5347,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 242,
+					"name": "Plane of Shadow",
+					"x": -3446.5237,
+					"y": 4441.8926,
+					"z": 0,
+					"size": 10
+				},
+				{
+					"id": 431,
+					"name": "Vex Thal",
+					"x": -3549.6914,
+					"y": 4324.0566,
+					"z": 0,
+					"size": 10
+				}
+			]
+		},
+		{
+			"id": 123,
+			"name": "Norrath",
+			"x": -5455.3145,
+			"y": 3237.1526,
+			"z": 0,
+			"size": 49.999996,
+			"children": [
+				{
+					"id": 82,
+					"name": "Kuua",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 77,
+							"name": "The Citadel of Anguish",
+							"x": -4484.5176,
+							"y": 2870.327,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 81,
+							"name": "Dranik's Catacombs",
+							"x": -4590.3447,
+							"y": 2506.6594,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 74,
+							"name": "Noble's Causeway",
+							"x": -4156.346,
+							"y": 2510.9893,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 80,
+							"name": "Dranik's Sewers",
+							"x": -4858.0933,
+							"y": 2489.3708,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 79,
+							"name": "Ruined City of Dranik",
+							"x": -4682.559,
+							"y": 2397.9448,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 73,
+							"name": "Wall of Slaughter",
+							"x": -4156.3057,
+							"y": 2703.5244,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 71,
+							"name": "Harbinger's Spire",
+							"x": -3909.3867,
+							"y": 2420.9958,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 72,
+							"name": "Dranik's Hollows",
+							"x": -3743.6787,
+							"y": 2352.549,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 75,
+							"name": "Muramite Proving Grounds",
+							"x": -3784.438,
+							"y": 2797.1716,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 70,
+							"name": "Dranik's Scar",
+							"x": -3929.6274,
+							"y": 2140.207,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 76,
+							"name": "Riftseeker's Sanctum",
+							"x": -3617.1846,
+							"y": 2914.2488,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 78,
+							"name": "Bloodfields",
+							"x": -4547.549,
+							"y": 2121.4858,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 100,
+					"name": "Taelosia",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 83,
+							"name": "Tacvi, Seat of the Slayer",
+							"x": -5670.356,
+							"y": -816.2837,
+							"z": 0,
+							"size": 23.600006
+						},
+						{
+							"id": 89,
+							"name": "Inktu`ta, The Unmasked Chapel",
+							"x": -5750.3667,
+							"y": -978.2307,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 90,
+							"name": "Ikkinz, Chambers of Destruction",
+							"x": -5784.8813,
+							"y": -1215.9985,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 84,
+							"name": "Txevu, Lair of the Elite",
+							"x": -5586.3726,
+							"y": -898.56445,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 88,
+							"name": "Kod`Taz, Broken Trial Grounds",
+							"x": -5497.2593,
+							"y": -1162.3091,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 93,
+							"name": "Riwwi, Coliseum of Games",
+							"x": -5948.894,
+							"y": -1609.0757,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 97,
+							"name": "Tipt, Treacherous Crags",
+							"x": -5469.2544,
+							"y": -1390.8232,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 85,
+							"name": "Qvic, Prayer Grounds of Calling",
+							"x": -5386.0444,
+							"y": -974.39575,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 91,
+							"name": "Barindu, The Hanging Gardens",
+							"x": -5679.625,
+							"y": -1656.3687,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 95,
+							"name": "Ferubi, Forgotton Temple of Taelosia",
+							"x": -5845.4233,
+							"y": -1722.6572,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 96,
+							"name": "Natimbi, The Broken Shore",
+							"x": -6193.777,
+							"y": -1753.5627,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 87,
+							"name": "Yxtta, Pulpit of Exiles",
+							"x": -5209.636,
+							"y": -1100.9495,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 92,
+							"name": "Sewers of Nihilia",
+							"x": -5388.351,
+							"y": -1872.092,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 94,
+							"name": "Qinimi, Court of Nihilia",
+							"x": -5874.146,
+							"y": -1858.6924,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 98,
+							"name": "Vxed, Crumbling Caverns",
+							"x": -5190.4697,
+							"y": -1457.5242,
+							"z": 0,
+							"size": 19.600006
+						},
+						{
+							"id": 86,
+							"name": "Uqua, The Ocean God Chantry",
+							"x": -5098.4224,
+							"y": -951.386,
+							"z": 0,
+							"size": 19.600006
+						}
+					]
+				},
+				{
+					"id": 128,
+					"name": "Velious",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 101,
+							"name": "Temple of Veeshan",
+							"x": -2866.4866,
+							"y": -2818.6719,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 102,
+							"name": "Western Wastes",
+							"x": -2834.558,
+							"y": -3235.8564,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 103,
+							"name": "Siren's Grotto",
+							"x": -2665.8464,
+							"y": -3345.886,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 104,
+							"name": "Cobalt Scar",
+							"x": -2445.7876,
+							"y": -3360.5566,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 105,
+							"name": "Skyshrine",
+							"x": -2467.7935,
+							"y": -3169.8389,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 106,
+							"name": "The Wakening Lands",
+							"x": -2167.0464,
+							"y": -3155.1682,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 107,
+							"name": "Kael Drakkel",
+							"x": -1932.3169,
+							"y": -3140.4976,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 108,
+							"name": "Sleeper's Tomb",
+							"x": -1521.5403,
+							"y": -3338.5508,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 110,
+							"name": "Tower of Frozen Shadow",
+							"x": -1046.329,
+							"y": -2841.6223,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 111,
+							"name": "Eastern Wastes",
+							"x": -1814.9521,
+							"y": -2964.4507,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 112,
+							"name": "Crystal Caverns",
+							"x": -1814.9521,
+							"y": -2773.733,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 113,
+							"name": "The Great Divide",
+							"x": -2049.6816,
+							"y": -2803.0742,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 114,
+							"name": "Thurgadin",
+							"x": -2284.4111,
+							"y": -2729.7212,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 115,
+							"name": "Icewell Keep",
+							"x": -2386.9727,
+							"y": -2627.6887,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 116,
+							"name": "Dragon Necropolis",
+							"x": -2648.3137,
+							"y": -2994.5654,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 236,
+							"name": "East Wastes: Zeixshi-Kar's Awakening",
+							"x": -1589.0094,
+							"y": -2895.9268,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 237,
+							"name": "Crystal Caverns: The Fragment of Fear",
+							"x": -1586.1141,
+							"y": -2702.5,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 238,
+							"name": "Kael Drakkel: The King's Madness",
+							"x": -1729.5477,
+							"y": -3088.3347,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 240,
+							"name": "The Breeding Grounds",
+							"x": -2749.1626,
+							"y": -2560.597,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 99,
+					"name": "Abysmal Sea",
+					"x": -5467.537,
+					"y": 896.3646,
+					"z": 0,
+					"size": 38.800003
+				},
+				{
+					"id": 31,
+					"name": "Erud's Crossing",
+					"x": -1952.5559,
+					"y": 1513.6482,
+					"z": 0,
+					"size": 30
+				},
+				{
+					"id": 129,
+					"name": "Ocean of Tears",
+					"x": 641.1488,
+					"y": 1667.3651,
+					"z": 0,
+					"size": 27.6
+				},
+				{
+					"id": 130,
+					"name": "The Timorous Deep",
+					"x": 1462.8513,
+					"y": -33.7695,
+					"z": 0,
+					"size": 22.8
+				},
+				{
+					"id": 131,
+					"name": "Iceclad Ocean",
+					"x": -1318.0493,
+					"y": -3076.279,
+					"z": 0,
+					"size": 23.599995
+				},
+				{
+					"id": 159,
+					"name": "Kunark",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 132,
+							"name": "The Overthere",
+							"x": 743.04785,
+							"y": -558.8871,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 133,
+							"name": "Charasis, The Howling Stones",
+							"x": 739.8823,
+							"y": -418.1952,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 134,
+							"name": "Skyfire Mountains",
+							"x": 523.46497,
+							"y": -630.5532,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 135,
+							"name": "Veeshan's Peak",
+							"x": 341.10938,
+							"y": -511.59772,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 136,
+							"name": "The Burning Woods",
+							"x": 513.10876,
+							"y": -816.31116,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 137,
+							"name": "Chardok A",
+							"x": 304.26624,
+							"y": -924.62756,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 138,
+							"name": "The Halls of Betrayel (Chardok B)",
+							"x": 323.96838,
+							"y": -1145.0092,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 139,
+							"name": "Dreadlands",
+							"x": 878.95337,
+							"y": -1191.8081,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 140,
+							"name": "Frontier Mountains",
+							"x": 785.7749,
+							"y": -910.48987,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 141,
+							"name": "Temple of Droga",
+							"x": 854.9607,
+							"y": -707.4435,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 142,
+							"name": "Mines of Nurga",
+							"x": 941.2898,
+							"y": -791.65735,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 143,
+							"name": "Karnor's Castle",
+							"x": 1084.7592,
+							"y": -1124.9076,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 144,
+							"name": "Lake of Ill Omen",
+							"x": 1192.9105,
+							"y": -878.3517,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 145,
+							"name": "Veksar",
+							"x": 1180.5797,
+							"y": -791.47,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 146,
+							"name": "Firiona Vie",
+							"x": 1113.1041,
+							"y": -1344.6622,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 147,
+							"name": "Swamp of No Hope",
+							"x": 1457.4823,
+							"y": -983.0824,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 148,
+							"name": "Trakanon's Teeth",
+							"x": 1636.6469,
+							"y": -1067.4358,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 149,
+							"name": "Old Sebilis",
+							"x": 1614.7574,
+							"y": -1225.9486,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 150,
+							"name": "The Emerald Jungle",
+							"x": 1858.4713,
+							"y": -1010.7433,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 151,
+							"name": "City of Mist",
+							"x": 1739.9862,
+							"y": -684.35504,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 152,
+							"name": "Kaesora",
+							"x": 1571.6754,
+							"y": -594.69403,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 153,
+							"name": "Kurn's Tower",
+							"x": 1420.7365,
+							"y": -528.5647,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 154,
+							"name": "Field of Bone",
+							"x": 1371.858,
+							"y": -632.36414,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 155,
+							"name": "Warsliks Woods",
+							"x": 1141.4102,
+							"y": -513.37305,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 156,
+							"name": "Dalnir's Tomb",
+							"x": 1156.9956,
+							"y": -385.40033,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 187,
+							"name": "Cabilis",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 157,
+									"name": "East Cabilis",
+									"x": 1396.1007,
+									"y": -851.3025,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 158,
+									"name": "West Cabilis",
+									"x": 1278.235,
+									"y": -705.7436,
+									"z": 0,
+									"size": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": 187,
+					"name": "Faydwer",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 160,
+							"name": "Butcherblock Mountains",
+							"x": 1655.8401,
+							"y": 1346.7269,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 440,
+							"name": "Kaladim",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 161,
+									"name": "South Kaladim",
+									"x": 1578.3589,
+									"y": 1433.8195,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 162,
+									"name": "North Kaladim",
+									"x": 1490.4019,
+									"y": 1519.1931,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 163,
+							"name": "Dagnor's Cauldron",
+							"x": 1569.6064,
+							"y": 1171.0317,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 164,
+							"name": "Kedge Keep",
+							"x": 1420.4778,
+							"y": 1079.3828,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 165,
+							"name": "Estate of Unrest",
+							"x": 1738.8403,
+							"y": 1048.4214,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 166,
+							"name": "Greater Faydark",
+							"x": 1905.2461,
+							"y": 1305.473,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 167,
+							"name": "Crushbone",
+							"x": 1849.4888,
+							"y": 1502.1117,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 443,
+							"name": "Felwithe",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 168,
+									"name": "North Felwithe",
+									"x": 2025.865,
+									"y": 1174.6627,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 169,
+									"name": "South Felwithe",
+									"x": 2033.7407,
+									"y": 1009.95996,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 170,
+							"name": "Lesser Faydark",
+							"x": 2154.7788,
+							"y": 1401.4752,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 171,
+							"name": "Castle Mistmoore",
+							"x": 2397.7937,
+							"y": 1605.9933,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 172,
+							"name": "Mistmoore Catacombs",
+							"x": 2598.7356,
+							"y": 1429.1422,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 173,
+							"name": "Steamfont Mountains",
+							"x": 2410.8396,
+							"y": 1309.9187,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 174,
+							"name": "Ak'Anon",
+							"x": 2486.7861,
+							"y": 1141.2415,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 175,
+							"name": "Loping Plains",
+							"x": 2322.9,
+							"y": 986.8312,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 176,
+							"name": "Bloodmoon Keep",
+							"x": 2385.8606,
+							"y": 866.38745,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 177,
+							"name": "Hills of Shade",
+							"x": 1995.6735,
+							"y": 1708.8197,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 178,
+							"name": "Crypt of Shade",
+							"x": 1908.6929,
+							"y": 1801.7618,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 179,
+							"name": "Dragonscale Hills",
+							"x": 2931.9626,
+							"y": 1024.5494,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 180,
+							"name": "Crystallos, Lair of the Awakened",
+							"x": 3295.04,
+							"y": 794.45056,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 428,
+							"name": "Meldrath's Floating Islands",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 181,
+									"name": "Fortress Mechanotus",
+									"x": 2769.5598,
+									"y": 534.87775,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 182,
+									"name": "Gyrospire Beza",
+									"x": 2517.8271,
+									"y": 341.12323,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 183,
+									"name": "Gyrospire Zeka",
+									"x": 3149.7646,
+									"y": 332.18054,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 184,
+									"name": "S.H.I.P. Workshop",
+									"x": 2400.3025,
+									"y": 568.54333,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 185,
+									"name": "The Steam Factory",
+									"x": 2649.2415,
+									"y": 719.99805,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 186,
+									"name": "Meldrath's Majestic Mansion",
+									"x": 3077.9456,
+									"y": 662.65936,
+									"z": 0,
+									"size": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": 243,
+					"name": "Alaris",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 217,
+							"name": "Argath, Bastion of Illdaera",
+							"x": 3235.0652,
+							"y": -930.7036,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 218,
+							"name": "Valley of Lunanyn",
+							"x": 3134.9536,
+							"y": -1111.4635,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 219,
+							"name": "Beasts' Domain",
+							"x": 3335.983,
+							"y": -1172.9976,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 220,
+							"name": "Sarith, City of Tides",
+							"x": 2975.7068,
+							"y": -1608.0891,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 221,
+							"name": "Rubak Oseka",
+							"x": 2962.9683,
+							"y": -1752.5302,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 222,
+							"name": "The Resplendent Temple",
+							"x": 2981.3337,
+							"y": -1377.7471,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 223,
+							"name": "Erillion, City of Bronze",
+							"x": 2828.0242,
+							"y": -1175.6218,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 224,
+							"name": "The Pillars of Alra",
+							"x": 3432.4812,
+							"y": -1690.1147,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 225,
+							"name": "Windsong Sanctuary",
+							"x": 3096.3247,
+							"y": -1241.1492,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 226,
+							"name": "Sepulcher of Order",
+							"x": 2465.6772,
+							"y": -1292.6696,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 227,
+							"name": "Sepulcher East",
+							"x": 2574.5474,
+							"y": -1370.875,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 228,
+							"name": "Sepulcher West",
+							"x": 2397.6018,
+							"y": -1188.7714,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 229,
+							"name": "Shard's Landing",
+							"x": 2699.065,
+							"y": -1079.6033,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 230,
+							"name": "Evantil, the Vile Oak",
+							"x": 3761.5183,
+							"y": -1470.2054,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 231,
+							"name": "Grelleth's Palace, the Chateau of Filth",
+							"x": 2491.4531,
+							"y": -1542.1766,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 232,
+							"name": "Heart of Fear: The Threshold",
+							"x": 2654.691,
+							"y": -949.51556,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 233,
+							"name": "Heart of Fear: The Rebirth",
+							"x": 2621.568,
+							"y": -838.9888,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 234,
+							"name": "Heart of Fear: The Epicenter",
+							"x": 2581.716,
+							"y": -744.72736,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 245,
+					"name": "Antonica",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 264,
+							"name": "North West Antonica",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 438,
+									"name": "Qeynos",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 246,
+											"name": "North Qeynos",
+											"x": -2489.6448,
+											"y": 362.56305,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 247,
+											"name": "South Qeynos",
+											"x": -2594.5322,
+											"y": 212.9229,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 248,
+											"name": "Qeynos Catacombs",
+											"x": -2226.3818,
+											"y": 152.26196,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 249,
+									"name": "Qeynos Hills",
+									"x": -2254.638,
+									"y": 462.7307,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 250,
+									"name": "Surefall Glade",
+									"x": -2297.8245,
+									"y": 605.045,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 251,
+									"name": "Blackburrow",
+									"x": -1951.9635,
+									"y": 582.23016,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 252,
+									"name": "Jaggedpine Forest",
+									"x": -2263.5098,
+									"y": 773.15875,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 253,
+									"name": "Nedaria's Landing",
+									"x": -2571.9958,
+									"y": 911.34045,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 254,
+									"name": "Everfrost Peaks",
+									"x": -2462.529,
+									"y": 1167.0988,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 255,
+									"name": "Miragul's Menagerie",
+									"x": -2732.0146,
+									"y": 1142.541,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 256,
+									"name": "Permafrost",
+									"x": -2576.1646,
+									"y": 1298.859,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 257,
+									"name": "Halas",
+									"x": -2327.8706,
+									"y": 1300.0016,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 262,
+									"name": "The Plains of Karana",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 258,
+											"name": "West Karana",
+											"x": -2091.0867,
+											"y": 366.65182,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 259,
+											"name": "North Karana",
+											"x": -1838.0725,
+											"y": 348.37524,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 260,
+											"name": "South Karana",
+											"x": -1815.5873,
+											"y": 11.380978,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 261,
+											"name": "East Karana",
+											"x": -1601.6224,
+											"y": 287.37653,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 263,
+											"name": "Ethernere Tainted West Karana",
+											"x": -2109.8801,
+											"y": 264.3321,
+											"z": 0,
+											"size": 10
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 283,
+							"name": "The Serpent's Spine Mountains",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 265,
+									"name": "Highpass Hold",
+									"x": -1449.5919,
+									"y": 478.08295,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 266,
+									"name": "Highpass Keep",
+									"x": -1420.6451,
+									"y": 191.54877,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 267,
+									"name": "Blightfire Moors",
+									"x": -1476.0149,
+									"y": 923.8885,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 268,
+									"name": "The Stone Hive",
+									"x": -1075.7753,
+									"y": 947.2028,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 269,
+									"name": "Crescent Reach",
+									"x": -1826.9341,
+									"y": 724.845,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 270,
+									"name": "Goru'kar Mesa",
+									"x": -1352.2612,
+									"y": 1021.7927,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 271,
+									"name": "Blackfeather Roost",
+									"x": -1737.6875,
+									"y": 1067.6663,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 272,
+									"name": "The Steppes",
+									"x": -1370.1628,
+									"y": 1129.1584,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 273,
+									"name": "Icefall Glacier",
+									"x": -1374.3253,
+									"y": 1220.55,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 274,
+									"name": "Valdeholm",
+									"x": -1497.3649,
+									"y": 1345.726,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 275,
+									"name": "Frostcrypt",
+									"x": -1613.6832,
+									"y": 1273.4076,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 276,
+									"name": "Sunderock Springs",
+									"x": -1127.7794,
+									"y": 1169.7379,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 278,
+									"name": "Direwind Cliffs",
+									"x": -1006.61835,
+									"y": 1271.1688,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 282,
+									"name": "Ashengate",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 279,
+											"name": "Ashengate North",
+											"x": -969.3637,
+											"y": 1560.0897,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 280,
+											"name": "Ashengate East",
+											"x": -893.7905,
+											"y": 1429.7091,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 281,
+											"name": "Ashengate West",
+											"x": -1114.3999,
+											"y": 1456.0808,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 284,
+									"name": "Bixie Warfront",
+									"x": -1208.6184,
+									"y": 689.81885,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 326,
+							"name": "South West Antonica",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 285,
+									"name": "Splitpaw Lair",
+									"x": -1468.6721,
+									"y": 1.126648,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 286,
+									"name": "Lake Rathetear",
+									"x": -2191.2285,
+									"y": -102.95218,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 287,
+									"name": "The Arena",
+									"x": -2525.6196,
+									"y": -19.535458,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 288,
+									"name": "Rathe Mountains",
+									"x": -1879.1003,
+									"y": -258.6342,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 289,
+									"name": "The Feerrott",
+									"x": -1600.2709,
+									"y": -727.7073,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 290,
+									"name": "Oggok",
+									"x": -1535.8823,
+									"y": -540.2673,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 292,
+									"name": "Temple of Cazic-Thule",
+									"x": -1545.0616,
+									"y": -868.7361,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 294,
+									"name": "The Dead Hills",
+									"x": -2320.6855,
+									"y": -573.3821,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 424,
+									"name": "Tower of Rot",
+									"x": -2544.1328,
+									"y": -673.0078,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 308,
+									"name": "The Dream",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 293,
+											"name": "Feerrott: The Dream",
+											"x": -2091.0723,
+											"y": -640.6577,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 442,
+											"name": "House of Thule",
+											"x": -5455.3145,
+											"y": 3237.1526,
+											"z": 0,
+											"size": 49.999996,
+											"children": [
+												{
+													"id": 296,
+													"name": "Lower House of Thule",
+													"x": -2234.309,
+													"y": -804.30145,
+													"z": 0,
+													"size": 10
+												},
+												{
+													"id": 301,
+													"name": "Upper House of Thule",
+													"x": -2024.0039,
+													"y": -1088.5764,
+													"z": 0,
+													"size": 10
+												}
+											]
+										},
+										{
+											"id": 297,
+											"name": "Erudin Burning",
+											"x": -2380.534,
+											"y": -756.2608,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 298,
+											"name": "The Library",
+											"x": -1896.9319,
+											"y": -829.42633,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 299,
+											"name": "The Grounds",
+											"x": -2620.7964,
+											"y": -837.28937,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 300,
+											"name": "The Well",
+											"x": -2944.6987,
+											"y": -750.9383,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 302,
+											"name": "Miragul's Nightmare",
+											"x": -1671.2233,
+											"y": -1034.0747,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 303,
+											"name": "The Phylactery",
+											"x": -1383.9229,
+											"y": -1029.3723,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 304,
+											"name": "Fear Itself",
+											"x": -2334.458,
+											"y": -1175.9431,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 305,
+											"name": "Al`Kabor's Nightmare",
+											"x": -1507.2444,
+											"y": -1185.7537,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 306,
+											"name": "Morell's Castle",
+											"x": -2004.917,
+											"y": -1213.3276,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 307,
+											"name": "Sanctum Somnium",
+											"x": -1990.6746,
+											"y": -1312.1277,
+											"z": 0,
+											"size": 10
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 346,
+							"name": "South East Antonica",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 327,
+									"name": "Gulf of Gunthak",
+									"x": -784.29877,
+									"y": -988.92413,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 332,
+									"name": "Broken Skull Rock",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 328,
+											"name": "Dulak's Harbor",
+											"x": -1023.55817,
+											"y": -1023.3949,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 329,
+											"name": "Torgiran Mines",
+											"x": -1256.5839,
+											"y": -959.64404,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 330,
+											"name": "Crypt of Nadox",
+											"x": -1182.7769,
+											"y": -1065.9563,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 331,
+											"name": "Hate's Fury",
+											"x": -1394.4484,
+											"y": -1019.1118,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 333,
+									"name": "Grobb",
+									"x": -475.30905,
+									"y": -663.08234,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 338,
+									"name": "Argin-Hiz",
+									"x": -988.65576,
+									"y": -506.6413,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 339,
+									"name": "Rujarkian Hills",
+									"x": -973.5834,
+									"y": -393.40668,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 340,
+									"name": "Ruins of Takish`Hiz",
+									"x": -987.5391,
+									"y": -298.71274,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 341,
+									"name": "The Elddar Forest",
+									"x": -1162.4736,
+									"y": -167.35022,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 345,
+									"name": "Takish`Hiz",
+									"x": -706.4905,
+									"y": 19.841255,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 334,
+									"name": "Upper Guk",
+									"x": -139.74425,
+									"y": -487.0193,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 335,
+									"name": "Lower Guk",
+									"x": -109.2775,
+									"y": -601.20135,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 336,
+									"name": "Deepest Guk",
+									"x": -240.81166,
+									"y": -384.83047,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 441,
+									"name": "The Desert of Ro",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 337,
+											"name": "South Ro",
+											"x": -538.0531,
+											"y": -358.625,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 342,
+											"name": "North Ro",
+											"x": -335.10886,
+											"y": -38.262287,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 291,
+									"name": "Innothule Swamp",
+									"x": -510.79205,
+									"y": -551.6895,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 373,
+							"name": "North East Antonica",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 347,
+									"name": "Kithicor Forest",
+									"x": -880.0227,
+									"y": 484.8356,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 348,
+									"name": "Commonlands",
+									"x": -550.02124,
+									"y": 391.56567,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 439,
+									"name": "Freeport",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 349,
+											"name": "West Freeport",
+											"x": -193.62051,
+											"y": 485.0061,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 350,
+											"name": "East Freeport",
+											"x": -184.7125,
+											"y": 775.8361,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 351,
+									"name": "Nektulos Forest",
+									"x": -354.587,
+									"y": 1137.7345,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 352,
+									"name": "Lavastorm Mountains",
+									"x": -445.41876,
+									"y": 1439.5804,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 353,
+									"name": "Najena",
+									"x": -303.7611,
+									"y": 1275.032,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 355,
+									"name": "Solusek's Eye (Sol A)",
+									"x": 88.96677,
+									"y": 1577.8293,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 356,
+									"name": "Nagafen's Lair (Sol B)",
+									"x": -429.23502,
+									"y": 1585.5979,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 357,
+									"name": "Caverns of Exile (Sol C)",
+									"x": -48.258705,
+									"y": 1665.082,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 358,
+									"name": "Lavaspinner's Lair",
+									"x": -853.9979,
+									"y": 1739.6174,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 359,
+									"name": "Temple of Solusek Ro",
+									"x": 130.98024,
+									"y": 1488.1016,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 364,
+									"name": "Neriak",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 360,
+											"name": "Neriak Foreign Quarter",
+											"x": -145.96326,
+											"y": 988.8432,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 361,
+											"name": "Neriak Commons",
+											"x": 49.759808,
+											"y": 1178.09,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 362,
+											"name": "Neriak Third Gate",
+											"x": 117.99798,
+											"y": 1259.1074,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 363,
+											"name": "Neriak Fourth Gate",
+											"x": 157.79698,
+											"y": 1327.4995,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 371,
+									"name": "The Broodlands",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 366,
+											"name": "Tirranun's Delve",
+											"x": -331.92773,
+											"y": 1849.7942,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 367,
+											"name": "The Accursed Nest",
+											"x": -881.4969,
+											"y": 2007.2268,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 368,
+											"name": "Thundercrest Isles",
+											"x": -452.86005,
+											"y": 2311.3025,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 369,
+											"name": "Stillmoon Temple",
+											"x": -1010.2387,
+											"y": 2357.7917,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 370,
+											"name": "The Ascent",
+											"x": -758.2243,
+											"y": 2437.0852,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 430,
+											"name": "The Broodlands",
+											"x": -711.5455,
+											"y": 2185.653,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 372,
+									"name": "Befallen",
+									"x": -743.84894,
+									"y": 217.87608,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 374,
+									"name": "Rivervale",
+									"x": -667.81335,
+									"y": 613.46356,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 375,
+									"name": "Misty Thicket",
+									"x": -671.1042,
+									"y": 698.9627,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 376,
+									"name": "Runnyeye Citadel",
+									"x": -767.13666,
+									"y": 790.1484,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 377,
+									"name": "Gorge of King Xorbb",
+									"x": -782.68176,
+									"y": 871.6115,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 235,
+									"name": "Chapterhouse of the Fallen",
+									"x": -872.8571,
+									"y": 118.59799,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 239,
+									"name": "Valley of King Xorbb",
+									"x": -792.32947,
+									"y": 994.88226,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 385,
+									"name": "Darkhollow",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 378,
+											"name": "Corathus Creep",
+											"x": -1089.4994,
+											"y": 1722.9642,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 379,
+											"name": "Undershore",
+											"x": -1259.0594,
+											"y": 1884.1757,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 380,
+											"name": "Stoneroot Falls",
+											"x": -1466.6812,
+											"y": 1948.7438,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 381,
+											"name": "Ruins of Illsalin",
+											"x": -1608.0972,
+											"y": 1775.754,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 382,
+											"name": "The Drachnid Hive",
+											"x": -1494.2585,
+											"y": 2081.8203,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 383,
+											"name": "Dreadspire Keep",
+											"x": -1805.6624,
+											"y": 2016.5814,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 384,
+											"name": "The Demi-Plane of Blood",
+											"x": -1949.6377,
+											"y": 2254.3623,
+											"z": 0,
+											"size": 10
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": 56,
+					"name": "Odus",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 32,
+							"name": "Toxxulia Forest",
+							"x": -4057.3208,
+							"y": 1270.2847,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 33,
+							"name": "Paineel",
+							"x": -4460.544,
+							"y": 941.3008,
+							"z": 0,
+							"size": 24.400002
+						},
+						{
+							"id": 36,
+							"name": "Stonebrunt Mountains",
+							"x": -4112.1357,
+							"y": 852.24243,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 35,
+							"name": "The Warrens",
+							"x": -4251.8975,
+							"y": 776.9863,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 38,
+							"name": "Barren Coast",
+							"x": -3978.3167,
+							"y": 1016.3391,
+							"z": 0,
+							"size": 13.2
+						},
+						{
+							"id": 34,
+							"name": "Ruins of Old Paineel (The Hole)",
+							"x": -4531.9604,
+							"y": 667.3314,
+							"z": 0,
+							"size": 16
+						},
+						{
+							"id": 54,
+							"name": "The Darkened Sea",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 41,
+									"name": "Katta Castrum: Deluge",
+									"x": -3952.812,
+									"y": 226.02568,
+									"z": 0,
+									"size": 15.6
+								},
+								{
+									"id": 40,
+									"name": "Tempest Temple",
+									"x": -3674.5088,
+									"y": 313.01788,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 49,
+									"name": "Caverns of Endless Song",
+									"x": -3779.9392,
+									"y": 98.95021,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 48,
+									"name": "Brother Island",
+									"x": -3420.8867,
+									"y": 163.42003,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 51,
+									"name": "Thuliasaur Island",
+									"x": -3091.8728,
+									"y": -79.03508,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 50,
+									"name": "Degmar, The Lost Castle",
+									"x": -3579.9314,
+									"y": -97.16756,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 52,
+									"name": "Combine Dredge",
+									"x": -3345.4197,
+									"y": 248.01216,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 53,
+									"name": "Arx Mentis",
+									"x": -3404.7288,
+									"y": 316.01282,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 69,
+							"name": "The Buried Sea",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 59,
+									"name": "Maiden's Grave",
+									"x": -3926.2214,
+									"y": 748.1689,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 60,
+									"name": "Blacksail Folly",
+									"x": -3624.8118,
+									"y": 831.56726,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 39,
+									"name": "The Buried Sea",
+									"x": -3711.0227,
+									"y": 706.23224,
+									"z": 0,
+									"size": 14
+								},
+								{
+									"id": 55,
+									"name": "The Mouth of Prexus",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 42,
+											"name": "Katta Castrum",
+											"x": -3133.2087,
+											"y": 467.85345,
+											"z": 0,
+											"size": 14
+										},
+										{
+											"id": 44,
+											"name": "Thalassius",
+											"x": -2921.7368,
+											"y": 364.92496,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 45,
+											"name": "Silyssar, New Chelsith",
+											"x": -2864.9678,
+											"y": 516.7815,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 46,
+											"name": "Zhisza, The Shissar Sanctuary",
+											"x": -3177.1653,
+											"y": 701.1995,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 47,
+											"name": "Solteris, The Throne of Ro",
+											"x": -2871.8076,
+											"y": 764.2167,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 65,
+									"name": "Jardel's Hook",
+									"x": -3991.1313,
+									"y": 507.06903,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 63,
+									"name": "Monkey Rock",
+									"x": -3719.5833,
+									"y": 427.32684,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 64,
+									"name": "Redfeather Isle",
+									"x": -3892.1702,
+									"y": 463.44977,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 62,
+									"name": "Suncrest Isle",
+									"x": -3607.201,
+									"y": 539.70905,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 61,
+									"name": "Deadbone Reef",
+									"x": -3401.7246,
+									"y": 781.12726,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 43,
+									"name": "Jewel of Atiiki",
+									"x": -3316.4106,
+									"y": 406.5427,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 425,
+							"name": "The Grand Plateau",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 29,
+									"name": "Erudin Palace",
+									"x": -4157.6016,
+									"y": 1488.2471,
+									"z": 0,
+									"size": 14.8
+								},
+								{
+									"id": 30,
+									"name": "Erudin",
+									"x": -3801.0237,
+									"y": 1365.8207,
+									"z": 0,
+									"size": 26
+								}
+							]
+						}
+					]
+				}				
+			]
+		},
+		{
+			"id": 431,
+			"name": "Divine Planes",
+			"x": -3549.6914,
+			"y": 4324.0566,
+			"z": 0,
+			"size": 10,
+			"children": [
+				{
+					"id": 309,
+					"name": "Plane of Fear",
+					"x": -1653.096,
+					"y": 5605.907,
+					"z": 0,
+					"size": 39.6
+				},
+				{
+					"id": 310,
+					"name": "Plane of Hate",
+					"x": -2789.6882,
+					"y": 5371.8706,
+					"z": 0,
+					"size": 30.800001
+				},
+				{
+					"id": 311,
+					"name": "Plane of Sky",
+					"x": -3003.314,
+					"y": 4920.562,
+					"z": 0,
+					"size": 27.6
+				},
+				{
+					"id": 312,
+					"name": "Plane of Growth",
+					"x": -2357.2449,
+					"y": 5601.013,
+					"z": 0,
+					"size": 58
+				},
+				{
+					"id": 313,
+					"name": "Plane of Mischief",
+					"x": -1135.3816,
+					"y": 5512.5825,
+					"z": 0,
+					"size": 41.2
+				},
+				{
+					"id": 322,
+					"name": "Plane of Magic",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 319,
+							"name": "Arcstone",
+							"x": -1205.707,
+							"y": 4673.021,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 320,
+							"name": "Skylance",
+							"x": -1035.6035,
+							"y": 4835.3423,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 321,
+							"name": "Relic",
+							"x": -828.9921,
+							"y": 4881.094,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 323,
+					"name": "Plane of Music",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 317,
+							"name": "Theater of Blood",
+							"x": -2542.7297,
+							"y": 4506.304,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 318,
+							"name": "Deathknell, Tower of Dissonance",
+							"x": -2830.61,
+							"y": 4561.292,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 324,
+					"name": "Plane of Rage",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 314,
+							"name": "The Devastation",
+							"x": -1402.2295,
+							"y": 4885.4844,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 315,
+							"name": "Sverag, Stronghold of Rage",
+							"x": -1200.4354,
+							"y": 5076.091,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 316,
+							"name": "Razorthorn, Tower of Sullon Zek",
+							"x": -1167.1875,
+							"y": 5324.2896,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 58,
+					"name": "The Planes of Power",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 13,
+							"name": "Plane of War",
+							"x": -2207.9644,
+							"y": 5282.0996,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 12,
+							"name": "The Bastion of Thunder",
+							"x": -2365.8003,
+							"y": 4988.416,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 15,
+							"name": "The Tower of Solusek Ro",
+							"x": -2173.1567,
+							"y": 5084.5293,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 10,
+							"name": "Plane of Storms",
+							"x": -2244.3237,
+							"y": 4891.1475,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 14,
+							"name": "Plane of Tactics (Drunder, Fortress of Zek)",
+							"x": -1970.2455,
+							"y": 5132.2686,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 3,
+							"name": "Plane of Valor",
+							"x": -1917.5656,
+							"y": 5218.203,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 435,
+							"name": "Halls of Honor",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 6,
+									"name": "Halls of Honor A",
+									"x": -1868.1205,
+									"y": 5312.704,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 7,
+									"name": "The Temple of Marr (Halls of Honor B)",
+									"x": -2086.7104,
+									"y": 5388.4287,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 437,
+							"name": "Elemental Planes",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 436,
+									"name": "Plane of Earth",
+									"x": -5455.3145,
+									"y": 3237.1526,
+									"z": 0,
+									"size": 49.999996,
+									"children": [
+										{
+											"id": 18,
+											"name": "Vegarlson the Earthen Badlands (Plane of Earth A)",
+											"x": -2256.4395,
+											"y": 4814.1465,
+											"z": 0,
+											"size": 10
+										},
+										{
+											"id": 19,
+											"name": "Ragrax, Stronghold of the Twelve (Plane of Earth B)",
+											"x": -2494.044,
+											"y": 4740.3164,
+											"z": 0,
+											"size": 10
+										}
+									]
+								},
+								{
+									"id": 17,
+									"name": "Reef of Coirnav (Plane of Water)",
+									"x": -2133.7139,
+									"y": 4625.3457,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 22,
+									"name": "Eryslai, Kingdom of Wind (Plane of Air)",
+									"x": -1648.5726,
+									"y": 5426.584,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 16,
+									"name": "Doomfire, the Burning Land (Plane of Fire)",
+									"x": -1346.4114,
+									"y": 4829.1406,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 1,
+							"name": "Plane of Tranquility",
+							"x": -1800.4362,
+							"y": 4864.9746,
+							"z": 0,
+							"size": 21.199997
+						},
+						{
+							"id": 434,
+							"name": "Plane of Nightmares",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 9,
+									"name": "Plane of Nightmares A",
+									"x": -1668.7721,
+									"y": 4651.628,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 23,
+									"name": "Lair of Terris Thule (Plane of Nightmares B)",
+									"x": -1605.7643,
+									"y": 4447.343,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 11,
+							"name": "Plane of Innovation",
+							"x": -1800.028,
+							"y": 4584.3687,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 2,
+							"name": "Plane of Justice",
+							"x": -1556.48,
+							"y": 4924.882,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 433,
+							"name": "Plane of Time",
+							"x": -5455.3145,
+							"y": 3237.1526,
+							"z": 0,
+							"size": 49.999996,
+							"children": [
+								{
+									"id": 20,
+									"name": "Plane of Time A",
+									"x": -2143.0723,
+									"y": 4478.385,
+									"z": 0,
+									"size": 10
+								},
+								{
+									"id": 21,
+									"name": "The Prison of the Forsaken (Plane of Time B)",
+									"x": -2161.9204,
+									"y": 4340.405,
+									"z": 0,
+									"size": 10
+								}
+							]
+						},
+						{
+							"id": 8,
+							"name": "Plane of Torment",
+							"x": -1543.6621,
+							"y": 4701.0996,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 5,
+							"name": "The Ruins of Lxanvom (Crypt of Decay)",
+							"x": -1445.8949,
+							"y": 5336.382,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 4,
+							"name": "Plane of Disease",
+							"x": -1388.2417,
+							"y": 5228.2646,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 24,
+							"name": "Plane of Knowledge",
+							"x": -1974.8729,
+							"y": 3921.1885,
+							"z": 0,
+							"size": 36.399982
+						}
+					]
+				},
+				{
+					"id": 423,
+					"name": "Plane of Underfoot",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 411,
+							"name": "Brell's Rest",
+							"x": -442.86646,
+							"y": 3971.901,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 412,
+							"name": "Lichen Creep",
+							"x": -1222.5635,
+							"y": 4509.9253,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 413,
+							"name": "Cooling Chamber",
+							"x": -754.307,
+							"y": 3865.7668,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 414,
+							"name": "The Underquarry",
+							"x": -301.79,
+							"y": 4129.2817,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 415,
+							"name": "Pellucid Grotto",
+							"x": -1064.482,
+							"y": 3964.859,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 416,
+							"name": "Fungal Forest",
+							"x": -1100.6831,
+							"y": 4101.297,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 417,
+							"name": "Arthicrex",
+							"x": -1167.8411,
+							"y": 4322.3647,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 418,
+							"name": "The Foundation",
+							"x": -355.4004,
+							"y": 4251.364,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 419,
+							"name": "Volska's Husk",
+							"x": -424.2345,
+							"y": 4466.892,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 420,
+							"name": "Convorteum",
+							"x": -704.02625,
+							"y": 4597.124,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 421,
+							"name": "Kernagir, The Shining City",
+							"x": -608.11285,
+							"y": 4347.3765,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 422,
+							"name": "Brell's Temple",
+							"x": -860.3027,
+							"y": 4181.922,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 57,
+					"name": "Guilds / Housing",
+					"x": -5455.3145,
+					"y": 3237.1526,
+					"z": 0,
+					"size": 49.999996,
+					"children": [
+						{
+							"id": 26,
+							"name": "Sunrise Hills",
+							"x": -473.84937,
+							"y": 2524.396,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 27,
+							"name": "Neighborhood Guild Hall",
+							"x": -112.79651,
+							"y": 2271.0417,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 28,
+							"name": "Normal Guild Hall",
+							"x": -415.9319,
+							"y": 2100.7156,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 25,
+							"name": "The Guild Lobby",
+							"x": -954.0871,
+							"y": 2345.296,
+							"z": 0,
+							"size": 10
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 410,
+			"name": "The Void",
+			"x": 973.86316,
+			"y": 2772.081,
+			"z": 0,
+			"size": 49.2,
+			"children": [
+				{						
+					"id": 426,
+					"name": "The Void",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2
+				},
+				{
+					"id": 390,
+					"name": "The Founding of Qeynos",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2,
+					"children": [
+						{
+							"id": 386,
+							"name": "Oceangrean Hills",
+							"x": 486.33694,
+							"y": 2629.1191,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 387,
+							"name": "Oceangreen Village",
+							"x": 19.838974,
+							"y": 2480.9019,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 388,
+							"name": "Temple of Bertoxxulous",
+							"x": 217.49239,
+							"y": 2352.758,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 389,
+							"name": "Old Blackburrow",
+							"x": 96.822205,
+							"y": 2628.175,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 393,
+					"name": "The Battle of Bloody Kithicor",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2,
+					"children": [
+						{
+							"id": 391,
+							"name": "Bloody Kithicor",
+							"x": -94.54233,
+							"y": 2896.3884,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 392,
+							"name": "Old Commonlands",
+							"x": 342.94446,
+							"y": 2838.403,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 398,
+					"name": "Defending the Ring of Scale",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2,
+					"children": [
+						{
+							"id": 394,
+							"name": "The Field of Scale",
+							"x": 689.13904,
+							"y": 3033.1072,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 395,
+							"name": "Kaesora Library",
+							"x": 414.39148,
+							"y": 3092.7004,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 396,
+							"name": "Kaesora Hatchery",
+							"x": 1025.0723,
+							"y": 3194.6997,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 397,
+							"name": "Old Kurn's Tower",
+							"x": 633.7922,
+							"y": 3286.3257,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 402,
+					"name": "Invasion of The Plane of Earth",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2,
+					"children": [
+						{
+							"id": 399,
+							"name": "Toskirakk",
+							"x": 1036.0575,
+							"y": 2805.153,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 400,
+							"name": "Korascian Warrens",
+							"x": 1369.2386,
+							"y": 2670.9448,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 401,
+							"name": "Rathe Council Chamber",
+							"x": 1838.3722,
+							"y": 2598.2788,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 406,
+					"name": "The Muramite Invasion of Kuua",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2,
+					"children": [
+						{
+							"id": 403,
+							"name": "Old Bloodfields",
+							"x": 1139.7843,
+							"y": 2876.3972,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 404,
+							"name": "Precipice of War",
+							"x": 1501.0591,
+							"y": 3029.1077,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 405,
+							"name": "City of Dranik",
+							"x": 1141.7966,
+							"y": 2997.4912,
+							"z": 0,
+							"size": 10
+						}
+					]
+				},
+				{
+					"id": 409,
+					"name": "Storming the Tower of Discord",
+					"x": 973.86316,
+					"y": 2772.081,
+					"z": 0,
+					"size": 49.2,
+					"children": [
+						{
+							"id": 407,
+							"name": "Korafax, Home of the Riders",
+							"x": 1015.3223,
+							"y": 2549.6147,
+							"z": 0,
+							"size": 10
+						},
+						{
+							"id": 408,
+							"name": "Citadel of the Worldslayer",
+							"x": 1071.1852,
+							"y": 2313.7778,
+							"z": 0,
+							"size": 10
+						}
+					]
+				}
+			]
+		}
+	]
+}

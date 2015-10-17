@@ -53,7 +53,7 @@ angular
     name:'Mike Lambert',
     url:'http://bodom0015.game-server.cc/#/'
   };
-    
+
   $scope.navs = [
     /*{
       name: 'Welcome!',
@@ -62,7 +62,6 @@ angular
     {
       name:'EverQuest',
       right: true,
-      isOpen: false,
       url: [
         {
           name: 'Map of Norrath',
@@ -77,10 +76,6 @@ angular
           url: $scope.home.url + 'everquest/basics'
         },
         {
-          name: 'Useful Links',
-          url: $scope.home.url + 'everquest/links'
-        },
-        {
           name: 'Meet the Krosarmy',
           url: $scope.home.url + 'everquest/krosarmy'
         },
@@ -93,7 +88,6 @@ angular
     {
       name:'Minecraft',
       right:true,
-      isOpen: false,
       url:[
         {
           name:'Server Status',

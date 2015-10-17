@@ -1,0 +1,76 @@
+{
+	"EQ Data Links": [
+		{
+			"name": "ZAM.com",
+			"url": "http://everquest.allakhazam.com",
+			"description": "The most complete database of quests, items, spells, and NPCs on the internet."
+		},
+		{
+			"name": "Fanra's EQ Wiki",
+			"url": "http://everquest.fanra.info/wiki/Main_Page",
+			"description": "Very detailed breakdowns of many major quests, important items, and important game mechanics."
+		},
+		{
+			"name": "EQ Resource",
+			"url": "http://eqresource.com",
+			"description": "Detailed breakdowns of the quests in each expansion from House of Thule onward."
+		},
+		{
+			"name": "Rasper's Repository",
+			"url": "http://rasper.samanna.net/",
+			"description": "A discontinued collection of outlines for quests from Veil of Alaris and prior expansions."
+		}
+	],
+	"EQ Map Links": [
+		{
+			"name": "Mapfiend: Everything up to Rain of Fear",
+			"url": "http://www.mapfiend.net/mappacks"
+		},
+		{
+			"name": "EQ Resource: Detailed Maps of House of Thule",
+			"url": "http://hot.eqresource.com/maps.php"
+		},
+		{
+			"name": "EQ Resource: Detailed Maps of Veil of Alaris",
+			"url": "http://voa.eqresource.com/maps.php"
+		},
+		{
+			"name": "EQ Resource: Detailed Maps of Rain of Fear",
+			"url": "http://rof.eqresource.com/maps.php"
+		},
+		{
+			"name": "EQ Resource: Detailed Maps of Call of the Forsaken",
+			"url": "http://cotf.eqresource.com/maps.php"
+		},
+		{
+			"name": "EQ Resource: Detailed Maps of The Darkened Sea",
+			"url": "http://tds.eqresource.com/maps.php"
+		}
+	],
+	"EQ Tools Links": [
+		{
+			"name": "Magelo",
+			"url": "http://eq.magelo.com/premium.jspa"
+		},
+		{
+			"name": "ISBoxer",
+			"url": "http://isboxer.com/multiboxing-everquest"
+		},
+		{
+			"name": "GINA",
+			"url": "http://eq.gimasoft.com/gina/"
+		},
+		{
+			"name": "GamParse / GameTextTriggers",
+			"url": "http://gambosoft.com/"
+		},
+		{
+			"name": "Open Broadcaster Software",
+			"url": "https://obsproject.com/"
+		},
+		{
+			"name": "Twitch.tv",
+			"url": "http://www.twitch.tv/"
+		}
+	]
+}

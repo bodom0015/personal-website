@@ -1,0 +1,20 @@
+{
+  "nodes": [
+		{
+			"id": "29",
+			"label": "Erudin Palace",
+			"size": 3
+		},
+		{
+			"id": "30",
+			"label": "Erudin",
+			"size": 3
+		},
+		{
+			"id": "32",
+			"label": "Toxxulia Forest",
+			"size": 3
+		}
+	],
+  "edges": []
+}

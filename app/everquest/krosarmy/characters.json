@@ -1,0 +1,27 @@
+{
+  "The Rathe": [
+    { "name": "Krosar",     "surname": "",              "mageloId": 1227607,  "level": 105,   "heroic": false,    "clazz": "Necromancer",   "title": "Godslayer",       "suffix": "the Strategic Tactician" },
+    { "name": "Rasork",     "surname": "Shadowflame",   "mageloId": 3104209,  "level": 105,   "heroic": true,     "clazz": "Druid",         "title": "Royal Guard" },
+    { "name": "Yaldax",     "surname": "Toknight",      "mageloId": 3355267,  "level": 105,   "heroic": true,     "clazz": "Rogue",         "title": "Nightblade" },
+    { "name": "Inarraa",    "surname": "Serra",         "mageloId": 1361921,  "level": 105,   "heroic": false,    "clazz": "Shadowknight",  "title": "Reaver" },
+    { "name": "Savi",       "surname": "Yorr",          "mageloId": 3355269,  "level": 105,   "heroic": true,     "clazz": "Paladin",       "title": "Valiant" },
+    { "name": "Imacatlol",  "surname": "",              "mageloId": 3355268,  "level": 105,   "heroic": false,    "clazz": "Bard",          "title": "Wyrmkin" },
+    { "name": "Pharyn",     "surname": "Square",        "mageloId": 3173241,  "level": 52,    "heroic": false,    "clazz": "Enchanter" },
+    { "name": "Strikken",   "surname": "Daun",          "mageloId": 3173241,  "level": 49,    "heroic": false,    "clazz": "Shadowknight" },
+    { "name": "Phaust",     "surname": "Nfurious",      "mageloId": 3173251,  "level": 49,    "heroic": false,    "clazz": "Paladin" }
+  ],
+  "Cazic-Thule": [
+    { "name": "Sufono",     "surname": "",              "mageloId": 1367019,  "level": 88,    "heroic": false,    "clazz": "Enchanter",   "title": "Illusionist", "suffix": "the Evil One" },
+    { "name": "Zarky",      "surname": "Goboom",        "mageloId": 3110597,  "level": 86,    "heroic": true,     "clazz": "Magician" },
+    { "name": "Feliaze",    "surname": "Shio",          "mageloId": 3110602,  "level": 85,    "heroic": true,     "clazz": "Wizard" },
+    { "name": "Rawnn",      "surname": "Swanson",       "mageloId": 3110599,  "level": 85,    "heroic": true,     "clazz": "Beastlord" },
+    { "name": "Deallun",    "surname": "Damage",        "mageloId": 3110600,  "level": 85,    "heroic": true,     "clazz": "Rogue" },
+    { "name": "Fascizzle",  "surname": "Manizzle",      "mageloId": 3110603,  "level": 85,    "heroic": true,     "clazz": "Shaman" },
+    { "name": "Ferass",     "surname": "Altair",        "mageloId": 3110601,  "level": 85,    "heroic": true,     "clazz": "Paladin" },
+    { "name": "Krooln",     "surname": "Unusual",       "mageloId": 3110598,  "level": 85,    "heroic": true,     "clazz": "Berzerker" },
+    { "name": "Qadyeniel",  "surname": "",              "mageloId": 1307964,  "level": 81,    "heroic": false,    "clazz": "Cleric" },
+    { "name": "Bhaurok",    "surname": "Awwbama",       "mageloId": 2283008,  "level": 80,    "heroic": false,    "clazz": "Warrior",   "title": "Warlord",       "suffix": "the Trickster" },
+    { "name": "Rasork",     "surname": "Emalfwodahs",   "mageloId": 2866686,  "level": 80,    "heroic": false,    "clazz": "Monk",      "title": "Royal Guard",   "suffix": "of Cazic-Thule" },
+    { "name": "Feralas",    "surname": "",              "mageloId": 2866682,  "level": 80,    "heroic": false,    "clazz": "Ranger",    "title": "Protector",     "suffix": "of Cazic-Thule" }
+  ]
+}

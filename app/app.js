@@ -17,27 +17,23 @@ angular
   })
   .when('/everquest/spellSearch', {
     controller: 'SpellTestController',
-    templateUrl: '/app/everquest/spellFileTest.html'
+    templateUrl: '/app/everquest/spells/spellFileTest.html'
   })
   .when('/everquest/regions', {
     controller: 'EverquestMapController',
-    templateUrl: '/app/everquest/eqMap.html'
+    templateUrl: '/app/everquest/map/eqMap.html'
   })
   .when('/everquest/basics', {
     controller: 'EverquestBasicsController',
-    templateUrl: '/app/everquest/eqBasics.html'
+    templateUrl: '/app/everquest/basics/eqBasics.html'
   })
   .when('/everquest/lore', {
     controller: 'EverquestLoreController',
-    templateUrl: '/app/everquest/eqLore.html'
+    templateUrl: '/app/everquest/lore/eqLore.html'
   })
   .when('/everquest/krosarmy', {
-    controller: 'KrosarmyController',
-    templateUrl: '/app/everquest/krosarmy.html'
-  })
-  .when('/everquest/links', {
-    controller: 'EverquestLinksController',
-    templateUrl: '/app/everquest/usefulLinks.html'
+    controller: 'EverquestKrosarmyController',
+    templateUrl: '/app/everquest/krosarmy/krosarmy.html'
   })
   .when('/everquest/tradeskills', {
     controller: 'EverquestTradeskillsController',

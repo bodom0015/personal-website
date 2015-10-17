@@ -1,0 +1,288 @@
+{
+	"id": "117",
+	"name": "The Norrath System",
+	"link": "http://everquest.allakhazam.com/wiki/Norrath_Solar_System",
+	"children": [
+		{ "id": "118", "name": "Ro" },
+		{ "id": "119", "name": "Trorsmang" },
+		{ 
+			"id": "4",
+			"name": "Norrath",
+			"children": [
+				{
+					"id": "123",
+					"name": "Drinal",
+					"link": "http://everquest.allakhazam.com/wiki/Drinal"
+				},
+				{
+					"id": "124",
+					"name": "Luclin",
+					"link": "http://everquest.allakhazam.com/wiki/Luclin",
+					"children": [
+						{
+							"id": "13",
+							"name": "Luclin Underground",
+							"children": [
+								
+							]
+						}
+					]
+				},
+				{
+					"id": "12",
+					"name": "The World of Norrath",
+					"children": [
+						{ 
+							"id": "14",
+							"name": "Odus",
+							"children": [
+								{
+									"id": "31",
+									"name": "Erud's Crossing"
+								},
+								{
+									"id": "29",
+									"name": "Erudin Palace"
+								},
+								{
+									"id": "30",
+									"name": "Erudin"
+								},
+								{
+									"id": "32",
+									"name": "Toxxulia Forest"
+								},
+								{
+									"id": "33",
+									"name": "Paineel"
+								},
+								{
+									"id": "36",
+									"name": "Stonebrunt Mountains"
+								},
+								{
+									"id": "35",
+									"name": "The Warrens"
+								},
+								{
+									"id": "38",
+									"name": "Barren Coast"
+								},
+								{
+									"id": "34",
+									"name": "Ruins of Old Paineel (The Hole)"
+								},
+								{
+									"id": "39",
+									"name": "The Buried Sea",
+									"children": [
+										{
+											"id": "59",
+											"name": "Maiden's Grave"
+										},
+										{
+											"id": "60",
+											"name": "Blacksail Folly"
+										},
+										{
+											"id": "65",
+											"name": "Jardel's Hook"
+										},
+										{
+											"id": "63",
+											"name": "Monkey Rock"
+										},
+										{
+											"id": "64",
+											"name": "Redfeather Isle"
+										},
+										{
+											"id": "62",
+											"name": "Suncrest Isle"
+										},
+										{
+											"id": "61",
+											"name": "Deadbone Reef"
+										},
+										{
+											"name": "The Mouth of Prexus",
+											"children": [
+												{
+													"id": "42",
+													"name": "Katta Castrum"
+												},
+												{
+													"id": "43",
+													"name": "Jewel of Atiiki"
+												},
+												{
+													"id": "44",
+													"name": "Thalassius"
+												},
+												{
+													"id": "45",
+													"name": "Silyssar, New Chelsith"
+												},
+												{
+													"id": "46",
+													"name": "Zhisza, The Shissar Sanctuary"
+												},
+												{
+													"id": "47",
+													"name": "Solteris, The Throne of Ro"
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "The Darkened Sea",
+									"children": [
+										{
+											"id": "41",
+											"name": "Katta Castrum: Deluge"
+										},
+										{
+											"id": "40",
+											"name": "Tempest Temple"
+										},
+										{
+											"id": "49",
+											"name": "Caverns of Endless Song"
+										},
+										{
+											"id": "48",
+											"name": "Brother Island"
+										},
+										{
+											"id": "51",
+											"name": "Thuliasaur Island"
+										},
+										{
+											"id": "50",
+											"name": "Degmar, The Lost Castle"
+										},
+										{
+											"id": "52",
+											"name": "Combine Dredge"
+										},
+										{
+											"id": "53",
+											"name": "Arx Mentis"
+										}
+									]
+								}
+							]
+						},
+						{ 
+							"id": "15",
+							"name": "Antonica",
+							"children": [
+								{ 
+									"name": "North East Antonica",
+									"children": [
+										{ 
+											"name": "Broodlands",
+											"children": [
+												
+											]
+										},
+										{ 
+											"name": "Darkhollow",
+											"children": [
+												
+											]
+										}
+									]
+								},
+								{ 
+									"name": "North Central Antonica",
+									"children": [
+										
+									]
+								},
+								{ 
+									"name": "North West Antonica",
+									"children": [
+										
+									]
+								},
+								{ 
+									"name": "South East Antonica",
+									"children": [
+										
+									]
+								},
+								{ 
+									"name": "South West Antonica",
+									"children": [
+										
+									]
+								}
+							]
+						},
+						{ 
+							"id": "16",
+							"name": "Faydwer",
+							"children": [
+								
+							]
+						},
+						{ 
+							"id": "17",
+							"name": "Kunark",
+							"children": [
+								
+							]
+						},
+						{ 
+							"id": "18",
+							"name": "Velious",
+							"children": [
+								
+							]
+						},
+						{ 
+							"id": "19",
+							"name": "Taelosia",
+							"children": [
+								
+							]
+						},
+						{ 
+							"id": "20",
+							"name": "Kuua",
+							"children": [
+								
+							]
+						},
+						{ 
+							"id": "21",
+							"name": "Alaris",
+							"children": [
+								
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "5", 
+			"name": "The Planes of Power",
+			"children": [
+				
+			]
+		},
+		{
+			"id": "6", 
+			"name": "The Void"
+		},
+		{
+			"id": "7", 
+			"name": "Ethernere"
+		},
+		{ "id": "120", "name": "Anbeal" },
+		{ "id": "121", "name": "Cordan" }
+	]
+}
