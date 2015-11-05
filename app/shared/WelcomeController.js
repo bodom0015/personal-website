@@ -75,7 +75,7 @@ angular
     {
       id: 'webStack',
       name: 'NPM / Bower',
-      experience: "These two dependency management technologies wer also used in the construction of this website."
+      experience: "These two dependency management technologies were also used in the construction of this website."
     },
     {
       id: 'grunt',
