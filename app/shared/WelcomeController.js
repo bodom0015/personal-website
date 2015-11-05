@@ -134,7 +134,7 @@ angular
       jobTitle: 'Systems Developer',
       startDate: 'Nov 2012',
       endDate: 'May 2015',
-      summary: 'Over the course of my employment, I learned the intricacies of Java 7/8, Groovy, C#, and JavaScript. As a Systems Developer, I wrote and rewrote systems components, thoroughly documented large segments of the codebase, filed detailed bug reports, suggested performance improvements, and supported cross-departmental operations relevant to our software. I also wrote the end-to-end test plan for the billing and provisioning system, which I then used to thoroughly test the software before each release and file a list of bugs along with the use cases they affected.',
+      summary: 'Over the course of my employment, I learned the intricacies of Java 7/8, Groovy, C#, and JavaScript. As a Systems Developer, I wrote and rewrote systems components, thoroughly documented large segments of the codebase, filed detailed bug reports, suggested performance improvements, and supported cross-departmental operations relevant to our software. I also wrote the end-to-end test plan for the billing and provisioning system, which I then used to thoroughly test the software before each major release and file a list of bugs along with the use cases they affected.',
       responsibilities: [
         'Contributed to and maintained a large-scale distributed billing and provisioning system written in Java',
         'Enumerated and executed user lifecycle test cases for the aforementioned system',
