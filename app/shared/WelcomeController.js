@@ -16,37 +16,43 @@ angular
         id: 1,
         url: 'https://docs.google.com/document/d/1yzL20ROQ-d8CzotR3PxFdDt-Umxf55ctmo-59Br1TfI/edit?usp=sharing',
         icon: 'fa-paperclip',
-        description: 'View My Resume'
+        description: 'Take a look at my resume'
       },
       {
         id: 2,
         url: 'https://www.linkedin.com/profile/view?id=AAMAABLekqYBel4DCXNl29GOaEj893oJx-WlzbE&trk=hp-identity-name',
         icon: 'fa-linkedin-square',
-        description: 'View My LinkedIn'
+        description: 'Connect with me on LinkedIn'
       },
       {
-        id: 3,
+        id: 3, 
+        url: 'http://twitch.tv/bodom0015',
+        icon: 'fa-twitch',
+        description: 'Follow me on Twitch.tv'
+      },
+      {
+        id: 4,
         url: 'https://facebook.com/wesker514',
         icon: 'fa-facebook-square',
-        description: 'View My FaceBook'
+        description: 'Friend me on FaceBook'
       },
-      {
-        id: 4, 
+      /*{
+        id: 5, 
         url: 'https://plus.google.com/u/0/115232412060785281798/posts',
         icon: 'fa-google-plus-square',
-        description: 'View My Google+'
-      },
-      {
-        id: 5,
-        url: 'https://github.com/bodom0015',
-        icon: 'fa-github-square',
-        description: 'View My GitHub'
-      },
+        description: 'Add me to your circles on Google+'
+      },*/
       {
         id: 6,
+        url: 'https://github.com/bodom0015',
+        icon: 'fa-github-square',
+        description: 'Check out some of my code samples on GitHub'
+      },
+      {
+        id: 7,
         url: 'https://twitter.com/bodom0015',
         icon: 'fa-twitter-square',
-        description: 'View My Twitter'
+        description: 'Follow me on Twitter'
       }
   ])
 .constant('PrimaryLanguages', [
