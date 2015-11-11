@@ -10,7 +10,7 @@
             <div class="col-md-2 col-xs-6" ng-repeat="link in links | orderBy:'id'">
               <a data-toggle="tooltip" data-placement="top" title="{{ link.description }}" class="btn btn-sm btn-info link-button" ng-href="{{ link.url }}" ng-style="{ 
   'padding': arrowPointsDown ? 'auto' : '0'}">
-                <i class="fa fa-lg {{ link.icon }}"></i>
+                <i class="fa fa-lg fa-fw {{ link.icon }}"></i>
               </a><!-- /#linkButton -->
             </div><!-- /.col-md-2 -->
           </div><!-- /.row text-center -->
